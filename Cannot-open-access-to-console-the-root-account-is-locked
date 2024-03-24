@@ -4,3 +4,5 @@
 #4 Add "single init=/bin/bash" at the end of line which starts with "linux ..."
 #5 Do anything by command
 #5 reboot
+
+#6 After edit fstab, don't forget to validate it by "findmnt --verify" !!!
