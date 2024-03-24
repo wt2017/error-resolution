@@ -1,0 +1,6 @@
+#1 Enter BIOS
+#2 Enter GRUB (menu with multiple linux versions)
+#3 Type "e" into edit mode
+#4 Add "single init=/bin/bash" at the end of line which starts with "linux ..."
+#5 Do anything by command
+#5 reboot
