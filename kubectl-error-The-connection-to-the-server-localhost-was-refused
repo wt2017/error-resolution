@@ -1,0 +1,8 @@
+#1 on master node :  sudo cat /etc/kubernetes/admin.conf 
+#2 on work node with error :
+   #2.1 cd $HOME
+   #2.2 mkdir .kube
+   #2.3 cd .kube
+   #2.4 vi config
+   #2.5 copy all the textual from admin.conf to config file
+#3 kubectl get nodes works fine now !
