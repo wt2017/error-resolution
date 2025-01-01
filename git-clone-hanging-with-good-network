@@ -1,0 +1,5 @@
+wyou@fedora:~/common/error-resolution$ cat /etc/ssh/ssh_config.d/100-github.conf 
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+
