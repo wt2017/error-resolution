@@ -1,0 +1,10 @@
+#1 login previous kernel version with good signature
+#2 sudo mokutil --disable-validation
+#3 enter regular password, e.g. 1 or TAOTAOzq_02
+#4 input password to enter SecureBoot management
+#5 sudo systemctl reboot
+#6 enter into error kernel version's SecureBoot management by typing any key ...
+#7 select menu to disable SecureBoot
+#8 input password which is set in step #4
+   note: the password input is very interesting, not the full password, but the nth character of the password
+#9 disable SecureBoot
