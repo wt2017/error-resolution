@@ -1,0 +1,6 @@
+# Backup and create new profile
+mv ~/.config/google-chrome ~/.config/google-chrome-old
+mkdir -p ~/.config/google-chrome
+
+# Start Chrome with clean profile
+google-chrome --no-sandbox --no-first-run
