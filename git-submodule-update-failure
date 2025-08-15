@@ -1,6 +1,6 @@
 if 
   git submodule update --init --recursive
-  git submodule update --init --remote
+  git submodule update --remote
 
 fails, then change https/SSL/TLS to SSH protocol based like below
   git config -f .gitmodules submodule.aicb.url git@github.com:aliyun/aicb.git
