@@ -1,0 +1,6 @@
+MUST configure port mapping in home router:
+应用管理 -> 虚拟服务器
+外部端口，内部端口：34567
+IP 地址：192.168.0.122
+协议类型：ALL
+
