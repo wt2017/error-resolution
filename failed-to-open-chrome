@@ -1,0 +1,2 @@
+pkill -9 chrome
+rm -f ~/.config/google-chrome/SingletonLock
