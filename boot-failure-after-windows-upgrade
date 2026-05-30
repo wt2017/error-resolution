@@ -1,0 +1,9 @@
+F2 
+-> BOIS
+   -> Advanced Mode
+      -> Boot
+         -> Boot Configuration
+            Fast Boot                                   [Disabled]
+            Bootup Numlock State                        [Off]
+            Boot Sector(MBR/GPT) Recovery Policy        [Auto Recovery]
+
